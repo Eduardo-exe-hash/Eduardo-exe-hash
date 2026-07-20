@@ -3,7 +3,7 @@
 
 ## 🚀 About Me
 
-- 📚 I’m currently studying at Universidade Christus
+- 📚 I hold a degree in System Analysis at Universidade Christus
 - 🌱 I’m currently learning software development and building practical solutions
 - 👨‍💻 Focused on backend development
 - 💼 Former Java trainee at SEPOG.
